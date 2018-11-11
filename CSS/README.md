@@ -60,18 +60,21 @@ ul:nth-of-type(3){
 	color: green;
 }
 ```
-+ Make the <h1> element's color change to blue when hovered over
++ Make the h1 element's color change to blue when hovered over
 ```
 h1:hover{
 	color: blue;
 }
 ```
-+ Make the <a> element's that have been visited gray
++ Make the a element's that have been visited gray
 ```
 a:visited{
 	color: grey;
 }
 ```
+
+
+
 
 # Font
 + font family
@@ -124,4 +127,18 @@ h1 {
 + Use google font family
 	- https://fonts.google.com/?selection.family=Open+Sans
 
+
+
+
 # The Box Model
++ Content
++ Padding
++ Border
++ Margin
+[https://www.w3schools.com/css/css_boxmodel.asp]
+
+
+### float
+```
+float: left;
+```

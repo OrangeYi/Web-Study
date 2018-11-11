@@ -1,0 +1,15 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+h1 {
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+	width: 30%;
+	margin-left: 1.66%;
+	font-weight: 800;
+	font-size: 15px;
+	border-bottom: 1px solid rgba(102, 102, 153, 0.5); 
+	padding-bottom: 10px;
+}
