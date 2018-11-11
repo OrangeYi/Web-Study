@@ -1,0 +1,23 @@
+h1 {
+	color: #2F2D2F;
+	/*border-color: #F20B0B;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 5px dashed #51D0EE;
+		}
+li {
+	color: #C08B2A;
+	border-color: #F20B0B;
+	border-width: 1px;
+	border-style: solid;
+}
+h4{
+	background: #EBA222;
+	color: #39AC86;
+}
+body{
+	background:pink;
+/*	background: url(https://www.rvinyl.com/Shared/Images/Product/Rwraps-reg-Wood-Grain-Vinyl-Film-Wraps-Oak-Royal/Royal-Oak-Wood-Grain-Vinyl-Wrap-Film.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
