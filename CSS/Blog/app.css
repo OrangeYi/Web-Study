@@ -1,0 +1,35 @@
+* {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.other {
+	margin:auto;
+	background-color: white;
+	width: 70%;
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+}
+.date {
+	font-size: 15px;
+	color: #3498db;
+	margin: 20px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+.h2s {
+	font-weight: bold;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-bottom: 30px;
+}
+.artical {
+	margin: 20px;
+}
+
+.fistp{
+	border-left: 5px solid #bdc3c7; 
+	padding-left: 10px;
+}
+.hrs {
+	margin: 20px;
+	color: #b0c4de;
+}
